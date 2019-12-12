@@ -1,8 +1,6 @@
 # abap generate qrcode
  SAP ABAP Generate QRCode Using PHP-MySQL
 
-![alt text](https://github.com/jenizar/abap-generate-qrcode/blob/master/Screenshot.PNG)
-
 References:
 
 1. download : mpdf
